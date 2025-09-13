@@ -1,7 +1,5 @@
 # 🚀 UserFlow Bridge
 
-https://i.postimg.cc/VNcL5BM8/2025-09-13-163354.png
-
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python)
@@ -35,4 +33,5 @@ pip install fastapi uvicorn aiogram sqlite3
 API_TOKEN = "ваш_токен_бота"
 
 # 3. Запустите приложение
+
 python main.py
